@@ -26,7 +26,7 @@ também para um Qrcode, podendo ser lido por quem conseguir escanear
 
 # GPT IMAGE
 
-No gpt image ele irá por meio da sua descição buscar a imagem na qual você pediu, as ações que ele irá realizar será de
+No gpt image ele irá por meio de sua descição buscar a imagem na qual você pediu, as ações que ele irá realizar será de
 abrir essa imagem no seu navegador e logo em seguida também converter a mesma em um Qrcode permitindo acesso para outras pessoas.
 
 ![5](https://user-images.githubusercontent.com/96485637/231505203-4dacf11a-140d-438e-94fc-849483c72ef1.png)
